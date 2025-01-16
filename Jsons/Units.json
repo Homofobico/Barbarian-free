@@ -1,6 +1,6 @@
 [
 {
-		"name": "Settler",
+		"name": "Barbaro",
 		"unitType": "Civilian",
 		"movement": 2,
     "uniqueTo": "Barbarians",
